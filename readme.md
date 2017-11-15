@@ -35,7 +35,7 @@ If the ExecutionPolicy from PowerShell is Restricted run:
 
 With PowerShell and configured ExecutionPolicy run:
 
-    add-to-hosts-installer.ps1
+    add-to-hosts-installer.ps1 install
 
 ## Deinstallation
 
